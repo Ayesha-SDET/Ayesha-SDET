@@ -8,9 +8,9 @@
 - ✅ Working knowledge of Agile, V-Model & Waterfall
 - ✅ Tools: JIRA, SQL, Excel, Playwright, Selenium WebDriver, Postman
 
-📂 **Featured Repositories**
-- 🔹[Aeronet.io] (https://github.com/Ayesha-SDET/Aeronet.io) - Custom website for Avaiation Industry https://aeronet.io
--  [UAT Test Cases](https://github.com/Ayesha-SDET/UAT_Test_Cases) – Sample structured test cases for login, payment & cross-browser testing
+📂 **Featured Repositories** https://github.com/Ayesha-SDET/Aeronet.io
+- 🔹 [AERONET.IO](https://github.com/Ayesha-SDET/Aeronet.io) – Custom website for Avaiation Industry https://aeronet.io
+- 🔹 [UAT Test Cases](https://github.com/Ayesha-SDET/UAT_Test_Cases) – Sample structured test cases for login, payment & cross-browser testing
 - 🔹 [Defect Logs](https://github.com/Ayesha-SDET/Defect_Logs) – Realistic defect reports with severity, priority & steps
 - 🔹 [SQL Validation](https://github.com/Ayesha-SDET/SQL_Validation) – SQL scripts used to validate backend data
 - 🔹 [Automation Sample](https://github.com/Ayesha-SDET/Automation_Sample) – Playwrigh tests for a website with report generation
