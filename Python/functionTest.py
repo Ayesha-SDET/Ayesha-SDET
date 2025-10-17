@@ -9,7 +9,7 @@ def test_example(page: Page) -> None:
     home_page = HomePage(page)
     
     page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
-    login_page.enter_username("Admin")
+    login_page.enter_username("Admin123")
     login_page.enter_password("admin123")   
     login_page.click_login()
 
