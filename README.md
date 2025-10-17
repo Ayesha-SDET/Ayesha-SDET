@@ -15,7 +15,7 @@
 *  [UAT Test Cases](https://github.com/Ayesha-SDET/UAT_Test_Cases) – Example test cases for login, payments & cross-browser testing
 *  [Defect Logs](https://github.com/Ayesha-SDET/Defect_Logs) – Sample defect reports with severity, priority & steps
 *  [SQL Validation](https://github.com/Ayesha-SDET/SQL_Validation) – SQL scripts to check backend data consistency
-*  [Automation Sample](https://github.com/Ayesha-SDET/Automation_Sample) – Playwright test scripts with reporting
+*  [Automation Sample](https://github.com/Ayesha-SDET/Automation_Sample) – Playwright test scripts with Allure reporting
 *  [Agile Testing documents](https://github.com/Ayesha-SDET/Agile-Testing-Templates) – Agile Testing 
 
 Based in Cambridge, UK
