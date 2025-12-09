@@ -8,6 +8,10 @@
 *  Writing clear, structured test cases & detailed defect reports
 *  Familiar with Agile, V-Model & Waterfall methodologies
 *  Tools I use: JIRA, SQL, Excel, Playwright, Selenium WebDriver, Postman
+*  Skills : Playwright, TypeScript, Automation Testing,  Web Testing,  API Testing, CI/CD
+
+    <img width="388" height="270" alt="image" src="https://github.com/user-attachments/assets/1830bb1a-1fed-4815-897d-b4c88653097c" />
+
 
 📂 Some of My Work
 
