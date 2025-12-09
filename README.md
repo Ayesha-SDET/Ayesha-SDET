@@ -22,8 +22,3 @@
 
 Based in Cambridge, UK
 Reach me at [ayesha.uni.hudd@gmail.com](mailto:ayesha.uni.hudd@gmail.com)
-
- I’m passionate about ensuring quality at every stage of the SDLC and helping bridge the gap between users and developers.
-
-
-Do you want me to make it sound **more formal (like a CV/LinkedIn summary)** or **more casual (like a GitHub profile intro)**?
