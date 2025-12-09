@@ -12,7 +12,7 @@
 
 📂 Some of My Work
 
-*  [Playwright TypeScript (https://github.com/Ayesha-SDET/Playwright-Typescript)]- Latest playwright features
+*  [Playwright TypeScript](https://github.com/Ayesha-SDET/Playwright-Typescript)- Latest features
 *  [UAT Test Cases](https://github.com/Ayesha-SDET/UAT_Test_Cases) – Example test cases for login, payments & cross-browser testing
 *  [Defect Logs](https://github.com/Ayesha-SDET/Defect_Logs) – Sample defect reports with severity, priority & steps
 *  [SQL Validation](https://github.com/Ayesha-SDET/SQL_Validation) – SQL scripts to check backend data consistency
