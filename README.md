@@ -4,8 +4,12 @@
 
  What I Do Best
 
-*  User Acceptance Testing (UAT) & functional testing
-*  Writing clear, structured test cases & detailed defect reports
+* Writing clear, structured test cases
+* Creating detailed, actionable bug reports
+* Performing functional, regression & cross-browser tests
+* Validating backend data using SQL
+* Building scalable automation scripts in Playwright
+
 *  Familiar with Agile, V-Model & Waterfall methodologies
 *  Tools I use: JIRA, SQL, Excel, Playwright, Selenium WebDriver, Postman
 *  Skills : Playwright, TypeScript, Automation Testing,  Web Testing,  API Testing, CI/CD
